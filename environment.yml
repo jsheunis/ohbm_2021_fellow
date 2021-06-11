@@ -4,6 +4,7 @@ channels:
   - conda-forge/label/gcc7
 dependencies:
   - numpy>=1.16.5
+  - pandas
   - nibabel
   - pip:
     - matplotlib==3.2.2
