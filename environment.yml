@@ -10,7 +10,7 @@ dependencies:
   - sklearn-contrib-lightning
   - matplotlib==3.2.2
   - pip3:
-    -brainstat
+    -brainspace
 
 
 
